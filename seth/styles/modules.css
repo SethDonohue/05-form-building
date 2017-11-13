@@ -48,6 +48,12 @@
   text-decoration: none;
 }
 
+#article-export input {
+  color: black;
+  border: solid 1px, blue;
+
+}
+
 #article-export label {
   font-size: .8em;
   font-style: italic;
